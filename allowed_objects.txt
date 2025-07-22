@@ -1,0 +1,38 @@
+# Allowed Objects for YOLO Detection System
+# Only objects listed here will be detected and counted
+# One object name per line (case-sensitive, must match YOLO class names exactly)
+# Lines starting with # are comments and will be ignored
+
+# People and Animals
+person
+
+
+# Vehicles
+car
+bus
+bicycle
+
+# Common Household Items
+chair
+
+
+tv
+laptop
+mouse
+remote
+keyboard
+cell phone
+book
+clock
+
+
+# Sports and Recreation
+bottle
+cup
+knife
+spoon
+bowl
+
+# Tools and Equipment
+backpack
+stop sign
